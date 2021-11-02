@@ -19,6 +19,6 @@ This is how future projects will be layed out in my Github. This structure will 
 ---
 ### Additional Notes
 ---
-Can add any sort of links to research or papers [here] (www.google.com)
+Can add any sort of links to research or papers [here](www.google.com)
 ### Conclusions
 ---
