@@ -14,7 +14,7 @@ This is how future projects will be layed out in my Github. This structure will 
 ---
 ### Code
 ---
-`code`
+`code can be input ising this code block function`
 ### Version History
 ---
 ### Additional Notes
