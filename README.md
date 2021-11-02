@@ -18,6 +18,7 @@ This is how future projects will be layed out in my Github. This structure will 
 ### Version History
 ---
 - 1st version
+  - 1.1 version
 - 2nd version
 - 3rd version
 ### Additional Notes
