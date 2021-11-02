@@ -6,9 +6,19 @@ My name is Austin Marchesani and I am a masters student at the University of Iow
 
 ### Project Name
 ---
+Template for future projects
 ### Description
+---
+This is how future projects will be layed out in my Github. This structure will change for sure, but will be a good baseline for importing previous projects I have done.
 ### Packages Used
+---
 ### Code
+---
+`code`
 ### Version History
+---
 ### Additional Notes
+---
+Can add any sort of links to research or papers [here] (www.google.com)
 ### Conclusions
+---
